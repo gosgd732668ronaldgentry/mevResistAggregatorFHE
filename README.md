@@ -1,4 +1,4 @@
-```markdown
+
 # MEV Resist Aggregator: A Revolutionary FHE-Based DEX Aggregator
 
 The MEV Resist Aggregator is a cutting-edge decentralized exchange (DEX) aggregator that leverages **Zama's Fully Homomorphic Encryption (FHE) technology** to provide a secure trading experience. Our primary goal is to optimize not just for the best prices, but also to protect users from malicious front-running and Miner Extractable Value (MEV) attacks. By incorporating advanced cryptographic techniques, we offer users peace of mind, allowing them to engage in trading without the fear of exploitation.
